@@ -2,7 +2,6 @@
 - 🔭 I’m currently working on [the government expense tracking app](https://expenseng.com), [my portfolio](https://goodhands.github.io) (building with Gridsome ⚡)
 - 🌱 I’m currently learning Golang, Flutter & Dart!
 - 👯 I’m looking to collaborate on innovative ideas in Fintech, EdTech or anything that isn't boring really (:
-- 🤔 I’m looking for help with a remote job as a Laravel/PHP developer
 - 💬 Ask me about [Vue.js](https://vuejs.org), [Laravel](https://laravel.com), [PHP 😉](https://php.net) & TDD
 - 📫 How to reach me: [email](mailto:olaegbesamuel@gmail.com), [twitter](https://twitter.com/devloader), [linkedin](https://linkedin.com/in/olaegbe-samuel), [website](https://goodhands.github.io)
 - 😄 Pronouns: He/Him
