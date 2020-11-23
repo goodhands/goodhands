@@ -5,7 +5,6 @@
 - 💬 Ask me about [Vue.js](https://vuejs.org), [Laravel](https://laravel.com), [PHP 😉](https://php.net) & TDD
 - 📫 How to reach me: [email](mailto:olaegbesamuel@gmail.com), [twitter](https://twitter.com/devloader), [linkedin](https://linkedin.com/in/olaegbe-samuel), [website](https://goodhands.github.io)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Never thought 2020 would be my most productive year as a developer (really)
 <!--
 **goodhands/goodhands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
