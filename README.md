@@ -1,10 +1,11 @@
 ### Hi there 👋
-- 🔭 I’m currently working on [the government expense tracking app](https://expenseng.com), [my portfolio](https://goodhands.github.io) (building with Gridsome ⚡)
+- 🔭 I am a Fullstack web developer. I code with PHP, Vue.js, Nuxt, Gridsome & React!
 - 🌱 I’m currently learning Golang, Flutter & Dart!
 - 👯 I’m looking to collaborate on innovative ideas in Fintech, EdTech or anything that isn't boring really (:
 - 💬 Ask me about [Vue.js](https://vuejs.org), [Laravel](https://laravel.com), [PHP 😉](https://php.net) & TDD
 - 📫 How to reach me: [email](mailto:olaegbesamuel@gmail.com), [twitter](https://twitter.com/devloader), [linkedin](https://linkedin.com/in/olaegbe-samuel), [website](https://goodhands.github.io)
 - 😄 Pronouns: He/Him
+- 💻 I am seeking a remote role as a fullstack developer
 <!--
 **goodhands/goodhands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
