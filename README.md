@@ -8,11 +8,6 @@
 - 😄 Pronouns: He/Him
 - 💻 I am seeking a remote role as a fullstack developer. You can check out my [experience and my resume here](http://samuelolaegbe.com/experience)
 
-#### Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodhands&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Goodhands' github stats](https://github-readme-stats.vercel.app/api?username=goodhands&show_icons=true)
-
 <!--
 **goodhands/goodhands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
