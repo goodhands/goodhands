@@ -1,5 +1,4 @@
 ### Hi there 
-![](https://komarev.com/ghpvc/?username=goodhands) 
 - 🔭 I am a Fullstack web developer. I love fast, beautiful web experiences.
 - 🌱 I’m currently learning Flutter & Dart!
 - 👯 I’m looking to collaborate on innovative ideas in Fintech, EdTech or anything that isn't boring really (:
@@ -8,6 +7,8 @@
 - 😄 Pronouns: He/Him
 - 💻 I am seeking a remote role as a fullstack developer. You can check out my [experience and my resume here](http://samuelolaegbe.com/experience)
 
+
+![](https://komarev.com/ghpvc/?username=goodhands) 
 <!--
 **goodhands/goodhands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
