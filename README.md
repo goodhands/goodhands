@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning Flutter & Dart!
 - 👯 I’m looking to collaborate on innovative ideas in Fintech, EdTech or anything that isn't boring really (:
 - 💬 Ask me about JavaScript, [Vue.js](https://vuejs.org), [Laravel](https://laravel.com), [PHP 😉](https://php.net) & TDD
-- 📫 How to reach me: [email](mailto:olaegbesamuel@gmail.com), [twitter](https://twitter.com/devloader), [linkedin](https://linkedin.com/in/olaegbe-samuel), [website](https://goodhands.github.io)
+- 📫 How to reach me: [email](mailto:olaegbesamuel@gmail.com), [twitter](https://twitter.com/devloader), [linkedin](https://linkedin.com/in/olaegbe-samuel), [website](https://samuelolaegbe.com)
 - 😄 Pronouns: He/Him
-- 💻 I am seeking a remote role as a fullstack developer. You can check out my [experience and my resume here](http://samuelolaegbe.com/experience)
 
 
 ![](https://komarev.com/ghpvc/?username=goodhands) 
